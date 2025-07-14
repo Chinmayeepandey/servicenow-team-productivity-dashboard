@@ -57,5 +57,3 @@ Ensure you're logged into a **ServiceNow instance** with an admin role.
 - Click **Commit Update Set** if no errors
 
 ---
-
-
